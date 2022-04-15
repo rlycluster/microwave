@@ -1,0 +1,73 @@
+.messagend {
+    background-color: gray;
+    height: 1px;
+    margin-bottom: 20px;
+}
+
+.messages{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.messagebox{
+    display: block;
+    margin: auto;
+    box-sizing: border-box;
+    width: 100%;
+    height: 600px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
+.authorsend {
+    margin-bottom: 5px;
+}
+
+.messager{
+    margin-top: 30px;
+    display: flex;
+}
+
+.messagesend {
+    width: 100%;
+    box-sizing: border-box;
+    height: 100px;
+    resize: none;
+    margin-bottom: 5px;
+}
+
+.row {
+    margin: 1%;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin-bottom: 30px;
+    background-color: gray;
+    color: pink;
+}
+
+body {
+    margin: 0px;
+    background-color: lightblue;
+}
+
+footer{
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+    padding-top: 30px;
+    background-color: gray;
+    color: pink;
+}
+
+.video {
+    padding-top: 20px;
+    margin: 10px;
+}
+
+.footertext {
+    margin: 10px;
+}
