@@ -41,9 +41,11 @@
 }
 
 header {
-    display: flex;
     justify-content: center;
+    text-align: center;
     padding: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     margin-bottom: 30px;
     background-color: gray;
     color: pink;
@@ -69,5 +71,14 @@ footer{
 }
 
 .footertext {
+    margin: 10px;
+}
+
+.uppertext {
+    font-size: xx-large;
+    margin: 10px;
+}
+
+.linked {
     margin: 10px;
 }
