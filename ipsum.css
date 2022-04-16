@@ -13,3 +13,13 @@
 .info {
   text-align: center;
 }
+
+.tableclass {
+  background: gray;
+  width: 100%;
+  text-align: center;
+}
+
+.table td {
+  padding-bottom: 10px;
+}
